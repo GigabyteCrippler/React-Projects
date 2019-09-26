@@ -1,0 +1,78 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin: 20px;
+  background: linear-gradient(-20deg, #d0b782 20%, #a0cecf 80%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font: 500 1.2em/1.2 'Roboto', sans-serif;
+  height: 100vh;
+  width: 100vw;
+}
+
+.btn {
+  background: lightblue;
+  margin: 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  display: inline-block;
+  
+}
+
+.add-btn {
+  height: 50px;
+  width: 50px;
+  background-color : lightblue ;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.app-title {
+  text-align: center;
+  color: lightblue;
+  font-size: 70px;
+}
+
+.Container {
+  font-size: 1.8em;
+  text-align: center;
+  border-radius: 25px;
+  padding: 30px;
+  max-width: 500px;
+  margin: "auto";
+  border-top: 5px solid #435757;
+  background-color: rgba(255, 255, 255, .2);
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  opacity: 0.7;
+}
+
+input {
+  border-radius: 30px;
+  display: block;
+  height: 53px;
+  width: 500px;
+  margin: 0 0 -53px -9999px;
+  order: 4;
+  outline: none;
+  line-height: 1.15;
+  margin: 0;
+  font-size: 100%;
+  overflow: visible;
+  font-family: sans-serif;
+}
+#center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  font-size: 1.8em;
+  text-align: center;
+}
+.material-icons {
+  font-size : 20px;
+  color:black;
+}
