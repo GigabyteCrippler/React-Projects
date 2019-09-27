@@ -10,6 +10,11 @@ add items <br/>
 delete items (click item to delete)
 
 
+### Screenshot
+![Screen Shot 2019-09-26 at 2 48 10 PM](https://user-images.githubusercontent.com/45514949/65748284-1c6b9c80-e0f3-11e9-8cb7-12ae6d1150a0.png)
+
+
+
 ### How to contribute
 have an idea ? found a bug ? If you find any tips, please share them with me and let me know what can be improved.
 send me an email jeffbonimississo@gmail.com
